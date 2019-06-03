@@ -22,10 +22,17 @@ npm install
 react-native run-ios
 ```
 
+Note: If there is an error as below when running ios app, 
+```
+error Failed to build iOS project. We ran "xcodebuild" command but it exited with error code 65. To debug build logs further, consider building your app with Xcode.app, by opening Client.xcodeproj
+```
+Please just build the app with Xcode.app by opening Client.scodeproj.
+
 step 5. run backend : 
 Go to "Server" folder, and type the following commands.
 
 ```
+npm install
 node server.js
 ```
 
