@@ -91,11 +91,11 @@ User dataset sample
 {"user": {"_id": "5cf4cbb11c9d440000001f7b", "email": "Jill@gmail.com", "password":  "$2b$12$jRa0TWq9VTiVxIX9YeYsEuppjvxEDwpzs8SC/wRYtoZtGKefWpXZe, "username": "Jill"}}
 ```
 
-## 6. Demo :
+## 5. Demo :
 
 [Login Screen App Demo](https://youtu.be/ELFKShNxKtU)
 
-## 5. Reference :
+## 6. Reference :
 
 1. A React Native UI Example
 https://github.com/mmazzarolo/the-starter-app
